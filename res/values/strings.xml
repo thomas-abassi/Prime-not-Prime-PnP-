@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prime not Prime</string>
+    <string name="prime">Prime</string>
+    <string name="notprime">Not Prime</string>
+    <string name="number">169</string>
+    <string name="end">You win!</string>
+    <string name="watch">Watch an ad</string>
+    <string name="restart">Restart</string>
+
+</resources>
